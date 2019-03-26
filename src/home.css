@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3% 5%;
+}
+
+.uk-grid-match>*, .uk-grid-item-match {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.chela-card{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.chela-card{
+    max-width: 33%;
+    padding: 0 1%;
+}
